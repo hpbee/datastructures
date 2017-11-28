@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1491431864 source:c:\users\hari prasad bachala\desktop\practise\queue\main.cpp
+	<iostream>
+
+1491411139 source:c:\users\hari prasad bachala\desktop\practise\queue\queue.cpp
+	"queue.h"
+
+1491431887 c:\users\hari prasad bachala\desktop\practise\queue\queue.h
+
